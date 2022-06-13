@@ -16,20 +16,23 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 
 ## Table of contents
 
-- [General guides](#general-guides)
-- [HTML](#html)
-- [CSS](#css)
-- [Accessibility](#accessibility)
-- [GIT](#git)
-- [JavaScript](#javascript)
-- [API](#api)
-- [RegEx](#regex)
-- [Markdown](#markdown)
-- [Courses](#courses)
-- [Career](#career)
-- [Project building](#project-building)
-- [Design](#design)
-- [Random](#random)
+1. [General guides](#general-guides)
+2. [HTML](#html)
+3. [CSS](#css)
+4. [Accessibility](#accessibility)
+5. [GIT](#git)
+6. [JavaScript](#javascript)
+7. [React](#react)
+8. [API](#api)
+9. [RegEx](#regex)
+10. [Testing](#testing)
+11. [Markdown](#markdown)
+12. [Courses](#courses)
+13. [Career](#career)
+14. [Project building](#project-building)
+15. [Frontend Exercises](#frontend-exercises)
+16. [Design](#design)
+17. [Random](#random)
 
 # General guides
 
@@ -55,6 +58,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 - [Easing functions](https://easings.net/)
 - [PX to REM converter](https://nekocalc.com/px-to-rem-converter)
+- [Fancy Border-radius](https://9elements.github.io/fancy-border-radius/)
 
 # Accessibility
 
@@ -73,6 +77,14 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 - [DOM Manipulation Reference](https://youmightnotneedjquery.com/)
 - [JavaScript Questions](https://jsquiz.vercel.app/)
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+- [Clean Code JavaScript (guidelines)](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+
+# React
+
+- [Create React App](https://create-react-app.dev/)
+- [React Device Detect](https://www.npmjs.com/package/react-device-detect)
 
 # API
 
@@ -82,6 +94,12 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 # RegEx
 
 - [RegEx 101](https://regex101.com/)
+- [Regex Crossword](https://regexcrossword.com/)
+- [Regex Tuesday Challenges](https://callumacrae.github.io/regex-tuesday/)
+
+# Testing
+
+- [Learn Test Driven Development](https://github.com/dwyl/learn-tdd)
 
 # Markdown
 
@@ -116,6 +134,17 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [App Ideas](https://github.com/florinpop17/app-ideas)
 - [Frontend Mentor Challenges](https://www.frontendmentor.io/)
 - [JavaScript 30](https://javascript30.com/)
+- [50 React Projects](https://50reactprojects.com/)
+
+# Frontend Exercises
+
+- [Frontend Mentor](https://www.frontendmentor.io/challenges)
+- [Dev Challenges](https://devchallenges.io/)
+- [Codewell](https://www.codewell.cc/)
+- [Dev Projects](https://www.codementor.io/projects)
+- [Frontend Practice](https://www.frontendpractice.com/)
+- [Frontend Eval](https://frontendeval.com/)
+- []()
 
 # Design
 
@@ -126,7 +155,12 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Brand Colors](https://brandcolors.net/)
 - [Material Design](https://material.io/design/introduction#principles)
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Brad Traversy's Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [Happy Hues](https://www.happyhues.co/)
 
 # Random
 
 - [Girliemac's Algorithms & Data Structures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms)
+- [Awesome for non-programmers - list of Open Source projects to contribute to](https://github.com/szabgab/awesome-for-non-programmers)
+- [https://github.com/MunGell/awesome-for-beginners - list of Open Source projects to contribute to](https://github.com/MunGell/awesome-for-beginners)
+- [Leetcode 75 Questions Spreadsheet with Video Solutions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
