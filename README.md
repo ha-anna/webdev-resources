@@ -162,5 +162,5 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 
 - [Girliemac's Algorithms & Data Structures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms)
 - [Awesome for non-programmers - list of Open Source projects to contribute to](https://github.com/szabgab/awesome-for-non-programmers)
-- [https://github.com/MunGell/awesome-for-beginners - list of Open Source projects to contribute to](https://github.com/MunGell/awesome-for-beginners)
+- [Awesome for beginners - list of Open Source projects to contribute to](https://github.com/MunGell/awesome-for-beginners)
 - [Leetcode 75 Questions Spreadsheet with Video Solutions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
