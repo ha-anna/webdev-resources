@@ -32,7 +32,9 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 14. [Project building](#project-building)
 15. [Frontend Exercises](#frontend-exercises)
 16. [Design](#design)
-17. [Random](#random)
+17. [Illustrations](#illustrations)
+18. [Icons](#icons)
+19. [Random](#random)
 
 # General guides
 
@@ -65,6 +67,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Accessibility Checklist](https://www.a11yproject.com/checklist/)
 - [Color Safe - accessible web color combinations](http://colorsafe.co/)
 - [ARIA in HTML](https://www.w3.org/TR/html-aria/#allowed-aria-roles-states-and-properties)
+- [Axe-con: lectures on accessibility](https://www.deque.com/axe-con/)
 
 # GIT
 
@@ -80,9 +83,12 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Clean Code JavaScript (guidelines)](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+- [Zdog: Round, flat, designer-friendly pseudo-3D engine for canvas & SVG](https://zzz.dog/)
 
 # React
 
+- [Top JavaScript Concepts to Know Before Learning React](https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/)
+- [React Docs](https://beta.reactjs.org/learn)
 - [Create React App](https://create-react-app.dev/)
 - [React Device Detect](https://www.npmjs.com/package/react-device-detect)
 
@@ -144,11 +150,11 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Dev Projects](https://www.codementor.io/projects)
 - [Frontend Practice](https://www.frontendpractice.com/)
 - [Frontend Eval](https://frontendeval.com/)
-- []()
 
 # Design
 
 - [UI Design Patterns](https://ui-patterns.com/)
+- [BEAUBUS SVG Patterns](https://patterns.beaubus.com/)
 - [A Web Typography Learning Game](https://betterwebtype.com/triangle/)
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
 - [Shape Divider App](https://www.shapedivider.app/)
@@ -157,6 +163,22 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Brad Traversy's Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Happy Hues](https://www.happyhues.co/)
+- [A Unified Theory for Designing Just About Anything](https://cwodtke.medium.com/a-unified-theory-for-designing-just-about-anything-b87f1e4f050b)
+- [The Ultimate Guide With All The Secrets You Will Need To Know To Become A Fabulous Design Unicorn](https://start.uxdesign.cc/)
+
+# Illustrations
+
+- [Blush.design - easily create and customize stunning illustrations](https://blush.design/)
+- [undraw Illustrations](https://undraw.co/illustrations)
+- [Doodle Ipsum](https://doodleipsum.com/)
+- [Open Peeps](https://www.openpeeps.com/)
+- [Open Doodles](https://www.opendoodles.com/)
+
+# Icons
+
+- [Simple Icons](https://simpleicons.org/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [Material Icons](https://mui.com/material-ui/material-icons/)
 
 # Random
 
@@ -164,3 +186,4 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Awesome for non-programmers - list of Open Source projects to contribute to](https://github.com/szabgab/awesome-for-non-programmers)
 - [Awesome for beginners - list of Open Source projects to contribute to](https://github.com/MunGell/awesome-for-beginners)
 - [Leetcode 75 Questions Spreadsheet with Video Solutions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
+- [Repo that collects links to games that can teach you HTML, CSS, SQL, etc.](https://github.com/myramade/Code_Games/blob/main/README.md)
