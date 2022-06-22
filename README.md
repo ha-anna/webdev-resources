@@ -32,9 +32,13 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 14. [Project building](#project-building)
 15. [Frontend Exercises](#frontend-exercises)
 16. [Design](#design)
-17. [Illustrations](#illustrations)
-18. [Icons](#icons)
-19. [Random](#random)
+    - [Typography](#typography)
+    - [SVG](#svg)
+    - [Color Palettes](#color-palettes)
+    - [Patterns](#patterns)
+    - [Illustrations](#illustrations)
+    - [Icons](#icons)
+17. [Random](#random)
 
 # General guides
 
@@ -61,6 +65,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Easing functions](https://easings.net/)
 - [PX to REM converter](https://nekocalc.com/px-to-rem-converter)
 - [Fancy Border-radius](https://9elements.github.io/fancy-border-radius/)
+- [CSS-animations course](https://css-animations.io/)
 
 # Accessibility
 
@@ -68,6 +73,10 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Color Safe - accessible web color combinations](http://colorsafe.co/)
 - [ARIA in HTML](https://www.w3.org/TR/html-aria/#allowed-aria-roles-states-and-properties)
 - [Axe-con: lectures on accessibility](https://www.deque.com/axe-con/)
+- [Inclusive Design Methodology](https://www.microsoft.com/design/inclusive/)
+- [Accessibility check](https://www.experte.com/accessibility)
+- [WhoCanUse - color checker](https://whocanuse.com/)
+- [Pa11y: accessibility testing pal](https://github.com/pa11y/pa11y)
 
 # GIT
 
@@ -84,6 +93,8 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Clean Code JavaScript (guidelines)](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 - [Zdog: Round, flat, designer-friendly pseudo-3D engine for canvas & SVG](https://zzz.dog/)
+- [JavaScript Weekly Newsletter](https://javascriptweekly.com/)
+- [Bytes.dev - JavaScript Newsletter](https://bytes.dev/)
 
 # React
 
@@ -102,6 +113,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [RegEx 101](https://regex101.com/)
 - [Regex Crossword](https://regexcrossword.com/)
 - [Regex Tuesday Challenges](https://callumacrae.github.io/regex-tuesday/)
+- [RegexOne](https://regexone.com/)
 
 # Testing
 
@@ -121,6 +133,8 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [The Odin Project](https://www.theodinproject.com/paths)
 - [Calarts's UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design)
 - [Computer Science by Open Source Society University](https://github.com/ossu/computer-science)
+- [Harvard's Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [MIT OpenCourseWare](https://ocw.mit.edu/)
 
 # Career
 
@@ -153,20 +167,39 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 
 # Design
 
-- [UI Design Patterns](https://ui-patterns.com/)
-- [BEAUBUS SVG Patterns](https://patterns.beaubus.com/)
-- [A Web Typography Learning Game](https://betterwebtype.com/triangle/)
-- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
-- [Shape Divider App](https://www.shapedivider.app/)
-- [Brand Colors](https://brandcolors.net/)
 - [Material Design](https://material.io/design/introduction#principles)
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Brad Traversy's Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
-- [Happy Hues](https://www.happyhues.co/)
 - [A Unified Theory for Designing Just About Anything](https://cwodtke.medium.com/a-unified-theory-for-designing-just-about-anything-b87f1e4f050b)
 - [The Ultimate Guide With All The Secrets You Will Need To Know To Become A Fabulous Design Unicorn](https://start.uxdesign.cc/)
+- [Laws of UX](https://lawsofux.com/)
+- [Design Principles](https://principles.design/)
+- [Identity Designed - a brand identity showcase](https://identitydesigned.com/)
 
-# Illustrations
+## Typography
+
+- [A Web Typography Learning Game](https://betterwebtype.com/triangle/)
+- [Fontshare](https://www.fontshare.com/)
+
+## SVG
+
+- [Shape Divider App](https://www.shapedivider.app/)
+- [Blob Maker](https://www.blobmaker.app/)
+- [Get Waves (dividers)](https://getwaves.io/)
+
+## Color palettes
+
+- [Happy Hues](https://www.happyhues.co/)
+- [Brand Colors](https://brandcolors.net/)
+
+## Patterns
+
+- [UI Design Patterns](https://ui-patterns.com/)
+- [BEAUBUS SVG Patterns](https://patterns.beaubus.com/)
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+- [Patternpad - pattern creator](https://patternpad.com/)
+
+## Illustrations
 
 - [Blush.design - easily create and customize stunning illustrations](https://blush.design/)
 - [undraw Illustrations](https://undraw.co/illustrations)
@@ -174,8 +207,9 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Open Peeps](https://www.openpeeps.com/)
 - [Open Doodles](https://www.opendoodles.com/)
 
-# Icons
+## Icons
 
+- [Icones - The Ultimate Icons List](https://icones.js.org/)
 - [Simple Icons](https://simpleicons.org/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Material Icons](https://mui.com/material-ui/material-icons/)
@@ -187,3 +221,4 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Awesome for beginners - list of Open Source projects to contribute to](https://github.com/MunGell/awesome-for-beginners)
 - [Leetcode 75 Questions Spreadsheet with Video Solutions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 - [Repo that collects links to games that can teach you HTML, CSS, SQL, etc.](https://github.com/myramade/Code_Games/blob/main/README.md)
+- [Frontend Focus Newsletter](https://frontendfoc.us/)
