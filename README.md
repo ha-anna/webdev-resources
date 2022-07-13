@@ -53,6 +53,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [HTML Best Practices](https://github.com/hail2u/html-best-practices)
 - [HTML Elements Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [Code Sniffer](https://github.com/squizlabs/HTML_CodeSniffer)
+- [HTML5 Test](http://html5test.com/index.html)
 
 # CSS
 
@@ -66,6 +67,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [PX to REM converter](https://nekocalc.com/px-to-rem-converter)
 - [Fancy Border-radius](https://9elements.github.io/fancy-border-radius/)
 - [CSS-animations course](https://css-animations.io/)
+- [CSS3 Maker by Toptal](https://www.toptal.com/developers/css3maker)
 
 # Accessibility
 
@@ -77,10 +79,14 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Accessibility check](https://www.experte.com/accessibility)
 - [WhoCanUse - color checker](https://whocanuse.com/)
 - [Pa11y: accessibility testing pal](https://github.com/pa11y/pa11y)
+- [Udacity's Web Accessibility Course](https://www.udacity.com/course/web-accessibility--ud891)
 
 # GIT
 
 - [Girliemac's Git Purr](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/git-purr)
+- [Git for Professionals – Free Version Control Course](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/git-for-professionals/amp/)
+- [Write Git Commit Messages That Your Colleagues Will Love](https://dev.to/simeg/write-git-commit-messages-that-your-colleagues-will-love-1757)
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
 
 # JavaScript
 
@@ -101,7 +107,9 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Top JavaScript Concepts to Know Before Learning React](https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/)
 - [React Docs](https://beta.reactjs.org/learn)
 - [Create React App](https://create-react-app.dev/)
+- [Vite](https://vitejs.dev/)
 - [React Device Detect](https://www.npmjs.com/package/react-device-detect)
+- [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 
 # API
 
@@ -114,10 +122,13 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Regex Crossword](https://regexcrossword.com/)
 - [Regex Tuesday Challenges](https://callumacrae.github.io/regex-tuesday/)
 - [RegexOne](https://regexone.com/)
+- [I hate RegEx cheatsheet](https://ihateregex.io/)
+- [Regex Learn Course](https://regexlearn.com/)
 
 # Testing
 
 - [Learn Test Driven Development](https://github.com/dwyl/learn-tdd)
+- [Xan I DevTools?](https://www.canidev.tools/)
 
 # Markdown
 
@@ -175,6 +186,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Laws of UX](https://lawsofux.com/)
 - [Design Principles](https://principles.design/)
 - [Identity Designed - a brand identity showcase](https://identitydesigned.com/)
+- [Design patterns](https://www.patterns.dev/)
 
 ## Typography
 
@@ -191,6 +203,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 
 - [Happy Hues](https://www.happyhues.co/)
 - [Brand Colors](https://brandcolors.net/)
+- [Color Spectrum](https://colorspectrum.design/generator.html)
 
 ## Patterns
 
@@ -206,6 +219,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Doodle Ipsum](https://doodleipsum.com/)
 - [Open Peeps](https://www.openpeeps.com/)
 - [Open Doodles](https://www.opendoodles.com/)
+- [dddoodle](https://fffuel.co/dddoodle/)
 
 ## Icons
 
@@ -213,6 +227,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Simple Icons](https://simpleicons.org/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Material Icons](https://mui.com/material-ui/material-icons/)
+- [Pixelarticons](https://pixelarticons.com/)
 
 # Random
 
@@ -222,3 +237,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Leetcode 75 Questions Spreadsheet with Video Solutions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 - [Repo that collects links to games that can teach you HTML, CSS, SQL, etc.](https://github.com/myramade/Code_Games/blob/main/README.md)
 - [Frontend Focus Newsletter](https://frontendfoc.us/)
+- [Showcode.app](https://showcode.app/)
+- [Don't ask to ask](https://dontasktoask.com/)
+- [binarysearch: Learn Algorithms Together](https://binarysearch.com/)
+- [Snyk Open Source Advisor (npm, PyPI, Go, Docker)](https://snyk.io/advisor/)
