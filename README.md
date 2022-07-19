@@ -16,15 +16,15 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 
 ## Table of contents
 
-1. [General guides](#general-guides)
-2. [HTML](#html)
-3. [CSS](#css)
-4. [Accessibility](#accessibility)
-5. [GIT](#git)
-6. [JavaScript](#javascript)
-7. [React](#react)
-8. [API](#api)
-9. [RegEx](#regex)
+1.  [General guides](#general-guides)
+2.  [HTML](#html)
+3.  [CSS](#css)
+4.  [Accessibility](#accessibility)
+5.  [GIT](#git)
+6.  [JavaScript](#javascript)
+7.  [React](#react)
+8.  [API](#api)
+9.  [RegEx](#regex)
 10. [Testing](#testing)
 11. [Markdown](#markdown)
 12. [Courses](#courses)
@@ -32,16 +32,26 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
     - [Job search](#job-search)
 14. [Project building](#project-building)
 15. [Frontend Exercises](#frontend-exercises)
-16. [Design](#design)
-    - [System](#system)
+16. [Design](#design) - [System](#system)
+17. [TypeScript](#typescript)
+18. [React](#react)
+19. [API](#api)
+20. [RegEx](#regex)
+21. [Testing](#testing)
+22. [Markdown](#markdown)
+23. [Courses](#courses)
+24. [Career](#career)
+25. [Project building](#project-building)
+26. [Frontend Exercises](#frontend-exercises)
+27. [Design](#design)
     - [Typography](#typography)
     - [SVG](#svg)
     - [Color Palettes](#color-palettes)
     - [Patterns](#patterns)
     - [Illustrations](#illustrations)
     - [Icons](#icons)
-17. [Data Structures and Algorithms](#data-structures-and-algorithms)
-18. [Random](#random)
+28. [Data Structures and Algorithms](#data-structures-and-algorithms)
+29. [Random](#random)
 
 # General guides
 
@@ -108,6 +118,11 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [JavaScript Weekly Newsletter](https://javascriptweekly.com/)
 - [Bytes.dev - JavaScript Newsletter](https://bytes.dev/)
 
+# TypeScript
+
+- [TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs)
+- [TypeScript Tutorial](https://www.typescripttutorial.net/)
+
 # React
 
 - [Top JavaScript Concepts to Know Before Learning React](https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/)
@@ -135,7 +150,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 # Testing
 
 - [Learn Test Driven Development](https://github.com/dwyl/learn-tdd)
-- [Xan I DevTools?](https://www.canidev.tools/)
+- [Can I DevTools?](https://www.canidev.tools/)
 
 # Markdown
 
