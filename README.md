@@ -29,16 +29,19 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 11. [Markdown](#markdown)
 12. [Courses](#courses)
 13. [Career](#career)
+    - [Job search](#job-search)
 14. [Project building](#project-building)
 15. [Frontend Exercises](#frontend-exercises)
 16. [Design](#design)
+    - [System](#system)
     - [Typography](#typography)
     - [SVG](#svg)
     - [Color Palettes](#color-palettes)
     - [Patterns](#patterns)
     - [Illustrations](#illustrations)
     - [Icons](#icons)
-17. [Random](#random)
+17. [Data Structures and Algorithms](#data-structures-and-algorithms)
+18. [Random](#random)
 
 # General guides
 
@@ -68,6 +71,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Fancy Border-radius](https://9elements.github.io/fancy-border-radius/)
 - [CSS-animations course](https://css-animations.io/)
 - [CSS3 Maker by Toptal](https://www.toptal.com/developers/css3maker)
+- [CSS Remedy](https://github.com/jensimmons/cssremedy)
 
 # Accessibility
 
@@ -87,6 +91,8 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Git for Professionals – Free Version Control Course](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/git-for-professionals/amp/)
 - [Write Git Commit Messages That Your Colleagues Will Love](https://dev.to/simeg/write-git-commit-messages-that-your-colleagues-will-love-1757)
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [Git Branching Course](https://learngitbranching.js.org/)
+- [Github/Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 
 # JavaScript
 
@@ -110,6 +116,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Vite](https://vitejs.dev/)
 - [React Device Detect](https://www.npmjs.com/package/react-device-detect)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
+- [30 Days of React (learning guide)](https://github.com/Asabeneh/30-Days-Of-React)
 
 # API
 
@@ -158,6 +165,23 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Grind 75](https://www.techinterviewhandbook.org/grind75)
 - [Interviews.school](https://interviews.school/)
 - [Codesignal](https://codesignal.com/developers/interview-practice/)
+- [React.js Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+
+## Job search
+
+- [JustJoin.it (Europe, office, hybrid, remote)](https://justjoin.it/)
+- [AngelList (Worldwide, office, hybrid, remote)](https://angel.co/jobs)
+- [WeWorkRemotely (Worldwide, remote)](https://weworkremotely.com/)
+- [Linkedin Jobs (Worldwide, office, hybrid, remote)](https://www.linkedin.com/jobs/)
+- [Remote.co (Worldwide, remote)](https://remote.co/)
+- [Remotive (Worldwide, remote)](https://remotive.com/)
+- [key: values (Worldwide, office, hybrid, remote)](https://www.keyvalues.com/)
+- [Remoteok (Worldwide, remote)](https://remoteok.com/)
+- [Working Nomads (Worldwide, remote)](https://www.workingnomads.com/jobs)
+- [Jooble (Worldwide, office, hybrid, remote)](https://jooble.org/)
+- [Wanted.co.kr (South Korea, office, hybrid, remote)](https://www.wanted.co.kr/)
+- [Saramin (South Korea, office, hybrid, remote)](https://www.saramin.co.kr/zf_user/)
+- [Indeed (Worldwide, office, hybrid, remote)](https://indeed.com/)
 
 # Project building
 
@@ -166,6 +190,8 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Frontend Mentor Challenges](https://www.frontendmentor.io/)
 - [JavaScript 30](https://javascript30.com/)
 - [50 React Projects](https://50reactprojects.com/)
+- [React Coding Challenges](https://github.com/alexgurr/react-coding-challenges)
+- [Project-based learning](https://github.com/practical-tutorials/project-based-learning)
 
 # Frontend Exercises
 
@@ -186,7 +212,13 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Laws of UX](https://lawsofux.com/)
 - [Design Principles](https://principles.design/)
 - [Identity Designed - a brand identity showcase](https://identitydesigned.com/)
+
+## System
+
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Design patterns](https://www.patterns.dev/)
+- [UI Design Patterns](https://ui-patterns.com/)
+- [Design Patterns For Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## Typography
 
@@ -207,7 +239,6 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 
 ## Patterns
 
-- [UI Design Patterns](https://ui-patterns.com/)
 - [BEAUBUS SVG Patterns](https://patterns.beaubus.com/)
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
 - [Patternpad - pattern creator](https://patternpad.com/)
@@ -229,15 +260,26 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Material Icons](https://mui.com/material-ui/material-icons/)
 - [Pixelarticons](https://pixelarticons.com/)
 
-# Random
+# Data Structures and Algorithms
 
 - [Girliemac's Algorithms & Data Structures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms)
+- [Leetcode 75 Questions Spreadsheet with Video Solutions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
+- [binarysearch: Learn Algorithms Together](https://binarysearch.com/)
+- [Illustrated Algorithms](https://github.com/skidding/illustrated-algorithms)
+- [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+
+# Random
+
 - [Awesome for non-programmers - list of Open Source projects to contribute to](https://github.com/szabgab/awesome-for-non-programmers)
 - [Awesome for beginners - list of Open Source projects to contribute to](https://github.com/MunGell/awesome-for-beginners)
-- [Leetcode 75 Questions Spreadsheet with Video Solutions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 - [Repo that collects links to games that can teach you HTML, CSS, SQL, etc.](https://github.com/myramade/Code_Games/blob/main/README.md)
 - [Frontend Focus Newsletter](https://frontendfoc.us/)
 - [Showcode.app](https://showcode.app/)
 - [Don't ask to ask](https://dontasktoask.com/)
-- [binarysearch: Learn Algorithms Together](https://binarysearch.com/)
 - [Snyk Open Source Advisor (npm, PyPI, Go, Docker)](https://snyk.io/advisor/)
+- [Awesome Guidelines (coding conventions)](https://github.com/Kristories/awesome-guidelines)
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+- [Free Programming books](https://github.com/EbookFoundation/free-programming-books)
+- [Open Source Guide](https://github.com/github/opensource.guide)
+- [Hacker101 - web security course](https://github.com/Hacker0x01/hacker101)
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
