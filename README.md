@@ -197,6 +197,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Wanted.co.kr (South Korea, office, hybrid, remote)](https://www.wanted.co.kr/)
 - [Saramin (South Korea, office, hybrid, remote)](https://www.saramin.co.kr/zf_user/)
 - [Indeed (Worldwide, office, hybrid, remote)](https://indeed.com/)
+- [NoFluffJobs (Europe, office, hybrid, remote)](https://nofluffjobs.com/pl)
 
 # Project building
 
