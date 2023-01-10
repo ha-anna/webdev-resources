@@ -22,18 +22,19 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 4.  [Accessibility](#accessibility)
 5.  [GIT](#git)
 6.  [JavaScript](#javascript)
-6.  [TypeScript](#typescript)
-7.  [React](#react)
-8.  [API](#api)
-9.  [RegEx](#regex)
-10. [Testing](#testing)
-11. [Markdown](#markdown)
-12. [Courses](#courses)
-13. [Career](#career)
+7.  [TypeScript](#typescript)
+8.  [jQuery](#jquery)
+9.  [React](#react)
+10. [API](#api)
+11. [RegEx](#regex)
+12. [Testing](#testing)
+13. [Markdown](#markdown)
+14. [Courses](#courses)
+15. [Career](#career)
     - [Job search](#job-search)
-14. [Project building](#project-building)
-15. [Frontend Exercises](#frontend-exercises)
-16. [Design](#design) 
+16. [Project building](#project-building)
+17. [Frontend Exercises](#frontend-exercises)
+18. [Design](#design) 
     - [System](#system)
     - [Typography](#typography)
     - [SVG](#svg)
@@ -41,8 +42,8 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
     - [Patterns](#patterns)
     - [Illustrations](#illustrations)
     - [Icons](#icons)
-28. [Data Structures and Algorithms](#data-structures-and-algorithms)
-29. [Random](#random)
+19. [Data Structures and Algorithms](#data-structures-and-algorithms)
+20. [Random](#random)
 
 # General guides
 
@@ -113,6 +114,10 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 
 - [TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs)
 - [TypeScript Tutorial](https://www.typescripttutorial.net/)
+
+# jQuery
+
+- [jQuery Cheatsheet](https://oscarotero.com/jquery/)
 
 # React
 
