@@ -43,7 +43,8 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
     - [Illustrations](#illustrations)
     - [Icons](#icons)
 19. [Data Structures and Algorithms](#data-structures-and-algorithms)
-20. [Random](#random)
+20. [Python](#python)
+21. [Random](#random)
 
 # General guides
 
@@ -281,6 +282,10 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Illustrated Algorithms](https://github.com/skidding/illustrated-algorithms)
 - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
+# Python
+
+- [Scientific Computing with Python Course (FCC)](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
 # Random
 
 - [Awesome for non-programmers - list of Open Source projects to contribute to](https://github.com/szabgab/awesome-for-non-programmers)
@@ -297,3 +302,4 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Hacker101 - web security course](https://github.com/Hacker0x01/hacker101)
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 - [EmailJS](https://www.emailjs.com/)
+- [Google's Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
