@@ -166,6 +166,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Harvard's Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 - [Full stack open course](https://fullstackopen.com/en/)
+- [860+ Free Online Programming & Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 
 # Career
 
