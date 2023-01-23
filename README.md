@@ -34,6 +34,7 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
     - [Job search](#job-search)
 16. [Project building](#project-building)
 17. [Frontend Exercises](#frontend-exercises)
+17. [Coding Exercises](#coding-exercises)
 18. [Design](#design) 
     - [System](#system)
     - [Typography](#typography)
@@ -216,6 +217,13 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [Dev Projects](https://www.codementor.io/projects)
 - [Frontend Practice](https://www.frontendpractice.com/)
 - [Frontend Eval](https://frontendeval.com/)
+- [CSS Battle](https://cssbattle.dev/)
+
+# Coding Exercises
+
+- [Codewars](https://www.codewars.com)
+- [HackerRank](https://www.hackerrank.com/)
+- [LeetCode](https://leetcode.com/)
 
 # Design
 
