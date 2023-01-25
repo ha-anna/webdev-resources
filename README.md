@@ -6,7 +6,11 @@
 
 <br>
 
-Hi there! This is an archive of resources that I used (and continue to use) to learn Front-end development. Feel free to check it out! Happy coding!
+Hi there and welcome! 
+
+This is a curated archive of resources related to Web development. 
+
+Happy coding!
 
 **Disclaimer:** Some of those may be paid resources/courses. Any of the attached links are not affiliated.
 
