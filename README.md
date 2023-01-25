@@ -168,6 +168,8 @@ Hi there! This is an archive of resources that I used (and continue to use) to l
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 - [Full stack open course](https://fullstackopen.com/en/)
 - [860+ Free Online Programming & Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
+- [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+- [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
 # Career
 
