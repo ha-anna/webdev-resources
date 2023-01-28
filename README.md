@@ -300,6 +300,7 @@ Happy coding!
 # Python
 
 - [Scientific Computing with Python Course (FCC)](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+- [Python for Everybody Course](https://www.py4e.com/lessons)
 
 # Random
 
