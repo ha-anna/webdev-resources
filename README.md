@@ -265,6 +265,7 @@ Happy coding!
 - [Happy Hues](https://www.happyhues.co/)
 - [Brand Colors](https://brandcolors.net/)
 - [Color Spectrum](https://colorspectrum.design/generator.html)
+- [I want hue](https://medialab.github.io/iwanthue/)
 
 ## Patterns
 
@@ -293,7 +294,6 @@ Happy coding!
 
 - [Girliemac's Algorithms & Data Structures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms)
 - [Leetcode 75 Questions Spreadsheet with Video Solutions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
-- [binarysearch: Learn Algorithms Together](https://binarysearch.com/)
 - [Illustrated Algorithms](https://github.com/skidding/illustrated-algorithms)
 - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
