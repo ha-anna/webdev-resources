@@ -48,8 +48,9 @@ Happy coding!
     - [Illustrations](#illustrations)
     - [Icons](#icons)
 19. [Data Structures and Algorithms](#data-structures-and-algorithms)
-20. [Python](#python)
-21. [Random](#random)
+20. [Databases](#databases)
+21. [Python](#python)
+22. [Random](#random)
 
 # General guides
 
@@ -165,6 +166,7 @@ Happy coding!
 
 - [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend)
 - [Codecademy's courses](https://www.codecademy.com/catalog/subject/web-development)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 - [The Odin Project](https://www.theodinproject.com/paths)
 - [Calarts's UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design)
 - [Computer Science by Open Source Society University](https://github.com/ossu/computer-science)
@@ -296,6 +298,10 @@ Happy coding!
 - [Leetcode 75 Questions Spreadsheet with Video Solutions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 - [Illustrated Algorithms](https://github.com/skidding/illustrated-algorithms)
 - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+
+# Databases
+
+- [PostgreSQL Cheat Sheet](https://quickref.me/postgres)
 
 # Python
 
