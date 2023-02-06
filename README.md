@@ -47,6 +47,7 @@ Happy coding!
     - [Patterns](#patterns)
     - [Illustrations](#illustrations)
     - [Icons](#icons)
+    - [Pixel art](#pixel-art)
 19. [Data Structures and Algorithms](#data-structures-and-algorithms)
 20. [Databases](#databases)
 21. [Python](#python)
@@ -139,6 +140,7 @@ Happy coding!
 # API
 
 - [Public APIs](https://github.com/public-apis/public-apis)
+- [Public APIs (updated clone)](https://github.com/public-api-lists/public-api-lists)
 - [OpenAI API](https://beta.openai.com/overview)
 
 # RegEx
@@ -291,6 +293,10 @@ Happy coding!
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Material Icons](https://mui.com/material-ui/material-icons/)
 - [Pixelarticons](https://pixelarticons.com/)
+
+## Pixel art
+
+- [Piskel App](https://www.piskelapp.com/)
 
 # Data Structures and Algorithms
 
