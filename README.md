@@ -313,6 +313,9 @@ Happy coding!
 
 - [Scientific Computing with Python Course (FCC)](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 - [Python for Everybody Course](https://www.py4e.com/lessons)
+- [Coursera: Python for Everybody Specialization (UofM)](https://www.coursera.org/specializations/python)
+- [Udacity: Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+- [Datacamp: Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 # Random
 
