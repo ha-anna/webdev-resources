@@ -117,6 +117,7 @@ Happy coding!
 - [Zdog: Round, flat, designer-friendly pseudo-3D engine for canvas & SVG](https://zzz.dog/)
 - [JavaScript Weekly Newsletter](https://javascriptweekly.com/)
 - [Bytes.dev - JavaScript Newsletter](https://bytes.dev/)
+- [ES6 features](https://github.com/lukehoban/es6features)
 
 # TypeScript
 
@@ -156,6 +157,7 @@ Happy coding!
 
 - [Learn Test Driven Development](https://github.com/dwyl/learn-tdd)
 - [Can I DevTools?](https://www.canidev.tools/)
+- [React Testing Library](https://github.com/testing-library/react-testing-library)
 
 # Markdown
 
