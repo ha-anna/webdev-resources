@@ -29,17 +29,18 @@ Happy coding!
 7.  [TypeScript](#typescript)
 8.  [jQuery](#jquery)
 9.  [React](#react)
-10. [API](#api)
-11. [RegEx](#regex)
-12. [Testing](#testing)
-13. [Markdown](#markdown)
-14. [Courses](#courses)
-15. [Career](#career)
+10. [Framework tools](#framework-tools)
+11. [API](#api)
+12. [RegEx](#regex)
+13. [Testing](#testing)
+14. [Markdown](#markdown)
+15. [Courses](#courses)
+16. [Career](#career)
     - [Job search](#job-search)
-16. [Project building](#project-building)
-17. [Frontend Exercises](#frontend-exercises)
-17. [Coding Exercises](#coding-exercises)
-18. [Design](#design) 
+17. [Project building](#project-building)
+18. [Frontend Exercises](#frontend-exercises)
+19. [Coding Exercises](#coding-exercises)
+20. [Design](#design) 
     - [System](#system)
     - [Typography](#typography)
     - [SVG](#svg)
@@ -137,6 +138,10 @@ Happy coding!
 - [React Device Detect](https://www.npmjs.com/package/react-device-detect)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - [30 Days of React (learning guide)](https://github.com/Asabeneh/30-Days-Of-React)
+
+# Framework tools
+
+- [Component party - compare different JS frameworks](https://component-party.dev/)
 
 # API
 
