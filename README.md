@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-<img src="./webdev_header.png" alt="">
+<img src="./webdev_header.png" width="700px" alt="">
 </div>
 
 <br>
