@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-<img src="./img_header.png" alt="Links and resources">
+<img src="./webdev_header.png" alt="">
 </div>
 
 <br>
