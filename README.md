@@ -61,6 +61,7 @@ Happy coding!
 - [Junior Web Developer Checklist](https://different-marmoset-f7b.notion.site/Junior-Web-Developer-Checklist-1-0-13f79e255d75430e97e6e99617cddb74)
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
 - [30 Seconds of Code](https://www.30secondsofcode.org/)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 # HTML
 
