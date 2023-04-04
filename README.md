@@ -312,6 +312,7 @@ Happy coding!
 - [Leetcode 75 Questions Spreadsheet with Video Solutions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 - [Illustrated Algorithms](https://github.com/skidding/illustrated-algorithms)
 - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+- [Dynamic Programming Patterns Explained](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
 
 # Databases
 
@@ -342,3 +343,6 @@ Happy coding!
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 - [EmailJS](https://www.emailjs.com/)
 - [Google's Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
+- [Wat - A funny talk about JavaScript](https://www.destroyallsoftware.com/talks/wat)
+- [Learn Web3](https://learnweb3.io/)
+
