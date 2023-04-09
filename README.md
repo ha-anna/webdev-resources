@@ -345,4 +345,6 @@ Happy coding!
 - [Google's Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Wat - A funny talk about JavaScript](https://www.destroyallsoftware.com/talks/wat)
 - [Learn Web3](https://learnweb3.io/)
+- [Visualizing code execution in Python, JavaScript, C, C++, and Java](https://pythontutor.com/)
+- [Alchemy University's web3 courses](https://university.alchemy.com/)
 
