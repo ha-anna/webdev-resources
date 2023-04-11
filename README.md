@@ -139,6 +139,7 @@ Happy coding!
 - [React Device Detect](https://www.npmjs.com/package/react-device-detect)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - [30 Days of React (learning guide)](https://github.com/Asabeneh/30-Days-Of-React)
+- [React Visualized](https://react.gg/visualized)
 
 # Framework tools
 
@@ -186,6 +187,10 @@ Happy coding!
 - [860+ Free Online Programming & Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 - [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 - [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
+- [Alchemy University's web3 courses](https://university.alchemy.com/)
+- [Learn Web3](https://learnweb3.io/)
+- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+
 
 # Career
 
@@ -344,7 +349,6 @@ Happy coding!
 - [EmailJS](https://www.emailjs.com/)
 - [Google's Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Wat - A funny talk about JavaScript](https://www.destroyallsoftware.com/talks/wat)
-- [Learn Web3](https://learnweb3.io/)
 - [Visualizing code execution in Python, JavaScript, C, C++, and Java](https://pythontutor.com/)
-- [Alchemy University's web3 courses](https://university.alchemy.com/)
+
 
