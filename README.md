@@ -139,7 +139,7 @@ Happy coding!
 - [React Device Detect](https://www.npmjs.com/package/react-device-detect)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - [30 Days of React (learning guide)](https://github.com/Asabeneh/30-Days-Of-React)
-- [React Visualized](https://react.gg/visualized)
+- [React, Visualized](https://react.gg/visualized)
 
 # Framework tools
 
