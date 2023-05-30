@@ -29,18 +29,19 @@ Happy coding!
 7.  [TypeScript](#typescript)
 8.  [jQuery](#jquery)
 9.  [React](#react)
-10. [Framework tools](#framework-tools)
-11. [API](#api)
-12. [RegEx](#regex)
-13. [Testing](#testing)
-14. [Markdown](#markdown)
-15. [Courses](#courses)
-16. [Career](#career)
+10. [Vue](#vue)
+11. [Framework tools](#framework-tools)
+12. [API](#api)
+13. [RegEx](#regex)
+14. [Testing](#testing)
+15. [Markdown](#markdown)
+16. [Courses](#courses)
+17. [Career](#career)
     - [Job search](#job-search)
-17. [Project building](#project-building)
-18. [Frontend Exercises](#frontend-exercises)
-19. [Coding Exercises](#coding-exercises)
-20. [Design](#design) 
+18. [Project building](#project-building)
+19. [Frontend Exercises](#frontend-exercises)
+20. [Coding Exercises](#coding-exercises)
+21. [Design](#design) 
     - [System](#system)
     - [Typography](#typography)
     - [SVG](#svg)
@@ -49,10 +50,10 @@ Happy coding!
     - [Illustrations](#illustrations)
     - [Icons](#icons)
     - [Pixel art](#pixel-art)
-19. [Data Structures and Algorithms](#data-structures-and-algorithms)
-20. [Databases](#databases)
-21. [Python](#python)
-22. [Random](#random)
+22. [Data Structures and Algorithms](#data-structures-and-algorithms)
+23. [Databases](#databases)
+24. [Python](#python)
+25. [Random](#random)
 
 # General guides
 
@@ -140,6 +141,12 @@ Happy coding!
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 - [30 Days of React (learning guide)](https://github.com/Asabeneh/30-Days-Of-React)
 - [React, Visualized](https://react.gg/visualized)
+
+# Vue
+
+- [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+- [Vue 3 Cheatsheet](https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf)
+- [Awesome Vue Resources](https://github.com/vuejs/awesome-vue)
 
 # Framework tools
 
