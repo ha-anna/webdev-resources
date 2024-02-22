@@ -325,6 +325,7 @@ Happy coding!
 - [Illustrated Algorithms](https://github.com/skidding/illustrated-algorithms)
 - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [Dynamic Programming Patterns Explained](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
 # Databases
 
