@@ -63,6 +63,7 @@ Happy coding!
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
 - [30 Seconds of Code](https://www.30secondsofcode.org/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Open Source Society University](https://ossu.firebaseapp.com/)
 
 # HTML
 
